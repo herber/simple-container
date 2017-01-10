@@ -3,7 +3,7 @@ simple node js containers
 
 ## Example
 ```bash
-test.js
+node test.js
 ```
 
 > that's it
