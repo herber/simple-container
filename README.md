@@ -5,5 +5,3 @@ simple node js containers
 ```bash
 node test.js
 ```
-
-> that's it
